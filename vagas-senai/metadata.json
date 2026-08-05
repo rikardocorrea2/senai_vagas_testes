@@ -1,0 +1,6 @@
+{
+  "name": "Vagas SENAI",
+  "description": "Portal de consulta de cursos e gestão visual de vagas do SENAI em tempo real com matriz colorida de ocupação.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
